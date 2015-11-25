@@ -1,1 +1,1 @@
-$("#foo").append("<div>hello world</div>")
+$(".box").append("<div>hello world</div>")

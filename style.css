@@ -1,3 +1,17 @@
+html {
+  height: 100%;
+}
 body {
   background-color: lightpink;
+  height: 100%;
+}
+a {
+  color: snow;
+}
+.row{
+  margin-left: 0px;
+}
+.container {
+  background-color: teal;
+  height: 100%
 }
