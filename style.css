@@ -2,16 +2,47 @@ html {
   height: 100%;
 }
 body {
-  background-color: lightpink;
+  background-color: #254E81;
   height: 100%;
 }
 a {
-  color: snow;
+  color: black;
 }
-.row{
-  margin-left: 0px;
+h2 {
+  font-size: 30px;
+}
+.header {
+
+}
+.navbar {
+  font-size: 30px;
+  background-color: #35B99A;
+  position: relative;
+  float: left;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 0px;
+}
+.navbar:hover {
+  font-size: 30px;
+  background-color: red;
+  position: relative;
+  float: left;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 0px;
 }
 .container {
-  background-color: teal;
-  height: 100%
+  background-color: #B5F2E4;
+  height: 100%;
+  overflow: auto;
+}
+.row{
+  overflow: auto;
+}
+
+.mainPic {
+}
+.pic {
+  width: 100%;
 }
